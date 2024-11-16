@@ -75,7 +75,7 @@ Contribuições são bem-vindas! Para colaborar, siga os passos abaixo:
 
 1. Faça um fork deste repositório.
 
-2.Crie uma branch para sua contribuição.
+2. Crie uma branch para sua contribuição.
 
 3. Envie um pull request com as alterações.
 
