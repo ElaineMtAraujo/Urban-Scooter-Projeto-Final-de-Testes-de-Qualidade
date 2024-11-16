@@ -82,6 +82,7 @@ Contribuições são bem-vindas! Para colaborar, siga os passos abaixo:
 ##  🕒 Atualizações Recentes
 
 [16/11/2024]: Atualização do README com novas seções de melhorias propostas e aprimoramento no uso do Postman para teste de API.
+
 [16/11/2024]: Correção de links nos relatórios de bugs.
 
 ##  ⚠️ Conclusão
